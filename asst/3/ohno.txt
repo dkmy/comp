@@ -1,0 +1,1 @@
+couldn't figure out how to get the environment set up; played around a bit w django but will finish later (after midpoint interview)
